@@ -1,0 +1,4 @@
+- create my first repo (done)
+- add a file (done)
+- check out the git history (done)
+- rest of the exercises (to do)
